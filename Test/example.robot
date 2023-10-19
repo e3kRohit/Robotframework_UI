@@ -1,4 +1,5 @@
-#new2 branch is for creating merge conflicts
+#new3 branch
+#commit and ammend
 
 
 *** Settings ***
