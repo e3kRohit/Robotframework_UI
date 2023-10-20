@@ -1,4 +1,4 @@
-#new2 branch is for creating merge conflicts
+#this is master branch
 
 
 *** Settings ***
